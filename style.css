@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: rgb(38, 103, 153);
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 48px;
+}
+img {
+    width: 400px;
+    align-self: center;
+}
+button {
+    color: darkblue;
+    background-color: lightblue;
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 3cap;
+    font-size: 18px;
+}
+body {
+    background-color: rgb(246, 214, 232);
+    align-content: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: self-end;
+    gap: 50px;
+}
